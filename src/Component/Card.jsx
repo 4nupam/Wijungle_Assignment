@@ -24,7 +24,7 @@ const Card = ({ dark, icon, text, number }) => {
   };
 
   const iconStyle = { fontSize: "2rem" };
-  const textStyle = { fontSize: "1.2rem", fontWeight: "bold" };
+  const textStyle = { fontSize: "1rem", fontWeight: "bold" };
   const numberStyle = {
     fontSize: "2rem",
     fontWeight: "bold",
