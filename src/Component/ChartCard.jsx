@@ -7,7 +7,7 @@ const ChartCard = ({ dark, chart }) => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        height: '50vh',
+        // height: '50vh',
         width: '100%',
         maxWidth: '600px', // Adjust max-width as needed
         margin: '0 auto',
